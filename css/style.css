@@ -1,0 +1,20 @@
+/* Gobal */
+body {
+    background: lavender;
+}
+
+/*Layout*/
+
+/*Typography*/
+
+/*Navagation*/
+a {
+    background: purple;
+    display: block;
+    height: 50px;
+    width: 100px;
+}
+
+li {
+    display: inline-block;
+}
