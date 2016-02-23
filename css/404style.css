@@ -1,0 +1,17 @@
+img {
+    width: 600px;
+    height: 400px;
+    margin-left: 650px;
+}
+
+.play-gif {
+  margin-left: 650px;
+}
+
+h2 {
+  text-align: center;
+}
+
+a {
+  display: inline;
+}
