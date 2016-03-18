@@ -1,1 +1,1 @@
-$('img').gifplayer();
+// Store Background Classes
